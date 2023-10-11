@@ -11,6 +11,6 @@ class Solution {
                     start = mid+1;
                 }
             }
-        return start; // or end as they are pointing to the same element
+        return start;
     }
 }
